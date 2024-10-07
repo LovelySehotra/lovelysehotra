@@ -31,4 +31,4 @@ Currently, I am pursuing a **Master's in Data Science**, expanding my skillset t
 - **Others:** Google APIs, Stripe, Twilio, Basic Data Structures and Algorithms
 
 ## 📈 Let's Connect!
-Feel free to reach out to me on [LinkedIn]([https://linkedin.com/in/your-link](https://www.linkedin.com/in/lovely-sehotra-88a39a233/)) .
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/lovely-sehotra-88a39a233/) .
