@@ -1,6 +1,6 @@
 # 👋 Lovely Sehotra | Full Stack Web Developer
 
-📧 lsehotra12@gmail.com | 📞 +91 9682654225 | [LinkedIn](https://linkedin.com/in/your-link) | [GitHub](https://github.com/your-profile)
+📧 lsehotra12@gmail.com  | [LinkedIn]([https://linkedin.com/in/your-link](https://www.linkedin.com/in/lovely-sehotra-88a39a233/)) 
 
 ## 🛠️ About Me
 I am a Full Stack Web Developer with **over 1 year of experience** in building dynamic web applications and Android features. I specialize in JavaScript, React, Node.js, Express, MongoDB, Svelte, and many other modern tools and technologies. I'm passionate about writing clean, efficient, and scalable code, and I'm constantly seeking new challenges and learning opportunities.
@@ -22,12 +22,6 @@ Currently, I am pursuing a **Master's in Data Science**, expanding my skillset t
 ### Intern | Indian Space Research Organisation (July 2023)
 - Worked on geospatial technology using **Python** for tasks like geoprocessing, resampling, and analyzing raster/vector data.
 
-## 🌟 Projects
-
-- **[StoneTekk Web App](#)** — Automated management system for the stone industry, featuring **real-time delivery tracking**, sales tracking, **OAuth**, and Stripe integration.
-- **[Kandi Kosmos Web App](#)** — Social media app for festival culture with QR code-based bead tracking and location sharing.
-- **[RewardTEKK Web App](#)** — Implemented a personalized rewards system with **Twilio-based login**, enhancing user engagement and tracking sales performance.
-- **[Virtual Tour Web App](#)** — Developed a virtual tour system for exploring building interiors, similar to Google Street View.
 
 ## 🛠️ Technical Skills
 - **Languages:** JavaScript, TypeScript, Python, SQL, HTML, CSS, SCSS, Tailwind, Java
@@ -37,4 +31,4 @@ Currently, I am pursuing a **Master's in Data Science**, expanding my skillset t
 - **Others:** Google APIs, Stripe, Twilio, Basic Data Structures and Algorithms
 
 ## 📈 Let's Connect!
-Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/your-link) or check out my work here on [GitHub](https://github.com/your-profile).
+Feel free to reach out to me on [LinkedIn]([https://linkedin.com/in/your-link](https://www.linkedin.com/in/lovely-sehotra-88a39a233/)) .
