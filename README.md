@@ -24,7 +24,7 @@ Currently, I am pursuing a **Master's in Data Science**, expanding my skillset t
 
 
 ## 🛠️ Technical Skills
-- **Languages:** JavaScript, TypeScript, Python, SQL, HTML, CSS, SCSS, Tailwind, Java
+- **Languages:** JavaScript, TypeScript, SQL, HTML, CSS, SCSS, Tailwind,
 - **Frontend:** React, Redux Toolkit, Svelte, Flowbite
 - **Backend:** Node.js, Express, MongoDB, PostgreSQL, TypeORM
 - **DevOps & Tools:** GitHub, AWS, Vercel, Render, Linux (Arch & Ubuntu), Nginx, REST APIs, Firebase
