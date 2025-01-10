@@ -7,20 +7,6 @@ I am a Full Stack Web Developer with **over 2 year of experience** in building d
 
 Currently, I am pursuing a **Master's in Data Science**, expanding my skillset to include **data analytics, machine learning, and geospatial technologies**. I'm also experienced in collaborating across teams and bringing intuitive solutions to complex problems.
 
-## 💼 Professional Experience
-
-### Full Stack Developer | Cybtekk ITverse LLP, Chandigarh (Oct 2023 - Present)
-- Developed and optimized **RESTful APIs** using Node.js, Express.js, and Postgres, achieving a **90% improvement in data retrieval speed**.
-- Integrated various third-party APIs such as **Google Maps API, Google Calendar API, Google Sign-In**, improving user experience by 60%.
-- Integrated **Stripe payments** with a 99.8% success rate and **Twilio for messaging** and push notifications.
-- Deployed applications on **AWS EC2** using **Nginx** and SSL for secure traffic handling.
-- Contributed to over 8 live projects, from development to deployment, testing, and issue resolution.
-
-### Software Engineer Intern | iNeuron.ai (Aug 2023 - Sept 2023)
-- Integrated **real-time weather data** from external APIs, honing my API integration and data handling skills.
-
-### Intern | Indian Space Research Organisation (July 2023)
-- Worked on geospatial technology using **Python** for tasks like geoprocessing, resampling, and analyzing raster/vector data.
 
 
 ## 🛠️ Technical Skills
